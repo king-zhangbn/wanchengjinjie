@@ -11,7 +11,7 @@ export const Footer: FC = () => {
                 <S.FooterContainer>
                     <Logo />
                     <S.FooterContent>
-                        <p>浙ICP备2024118647号-1</p>
+                        <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2024118647号-1</a>
                     </S.FooterContent>
                 </S.FooterContainer>
                 <Socials />

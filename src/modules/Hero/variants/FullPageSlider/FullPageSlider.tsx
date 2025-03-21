@@ -95,8 +95,8 @@ export const FullPageSlider: FC<FullPageSliderProps> = ({ content }) => {
                 </>
             ) : (
                 <S.FullPageSliderTextToSlide>
-                    Scroll down
-                    <Icon iconData="arrowDown" alt="arrow icon" />
+                     
+    
                 </S.FullPageSliderTextToSlide>
             )}
         </S.FullPageSliderStyled>

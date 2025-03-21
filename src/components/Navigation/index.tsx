@@ -10,15 +10,9 @@ export const Navigation: FC = () => {
         <S.NavigationStyled>
             <S.NavigationListWrapper $isOpen={isOpen}>
                 <S.NavigationList>
-                    <li>
+                    {/* <li>
                         <a href="/">主页</a>
-                    </li>
-                    <li>
-                        <a href="/infinite">关于我们</a>
-                    </li>
-                    <li>
-                        <a href="/contact">联系我们</a>
-                    </li>
+                    </li> */}
                 </S.NavigationList>
             </S.NavigationListWrapper>
             <Hamburger

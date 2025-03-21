@@ -1,4 +1,4 @@
-# 🚀Cybernetic Template - Astro + React
+np,# 🚀Cybernetic Template - Astro + React
 
 ![Cybernetic Template](/src/static/images/preview.webp)
 [<img src="/src/static/images/link-pro.png">](https://codexcode.store/themes/cybernetic-website-template)
